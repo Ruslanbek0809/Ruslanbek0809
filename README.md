@@ -13,7 +13,7 @@
 - 👨‍💻 I'm working as a mobile app developer at Yashyl Ada</br>
 - 🎲 My hobbies are: coding, reading, gaming and playing chess!</br>
 - 📚 Languages i speak: English, Russian, Turkish and some Arabic</br>
-- ⚡ Fun fact: Being well-educated just means you are confused on a higher level:sunglasses:</br>
+- ⚡ Fun fact: Heroes don't wear diapers:sunglasses:</br>
 </p>
 
 
