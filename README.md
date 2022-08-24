@@ -6,6 +6,9 @@
 [![ruslanbek0809@gmail.com](https://img.shields.io/static/v1?label=email&message=me&color=red&logo=gmail&style=for-the-badge&logoColor=white)](mailto:ruslanbek0809@gmail.com)
 [![https://www.linkedin.com/in/ruslan-hasanoff-34208a218/](https://img.shields.io/static/v1?label=connect&message=withme&color=orange&logo=linkedin&style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/ruslan-hasanoff-34208a218/)
 
+<img align="right" alt="GIF" height="300px" width="300px" src="https://c.tenor.com/dYTrYmR1GNMAAAAS/i-got-you-got-you.gif" />
+<!-- <img align="right" alt="GIF" height="300px" width="300px" src="https://media1.tenor.com/images/2ade00b5663a3435566b1330b537aea6/tenor.gif" /> -->
+
 <h3>Talking about Personal Stuffs:</h3>
 <p align="left">
 - 🔭 I’m currently working on something cool :wink:</br>
