@@ -39,4 +39,4 @@
 
 
 <!--https://spotify-github-profile.vercel.app/api/login--->
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=murad_alm&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=murad_alm&redirect=true) -->
+<!-- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=murad_alm&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=murad_alm&redirect=true) -->
