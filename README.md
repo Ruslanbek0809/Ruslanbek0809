@@ -34,9 +34,9 @@
    <a href="https://flutter.dev/" target="_blank"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/flutter.svg" alt="flutter" width="40" height="40"/> </a>
    <a href="https://dart.dev/" target="_blank"> <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/dart.svg" alt="dart" width="40" height="40"/> </a>
    
-</p>
+<!-- </p>
 <h3>Listening to:</h3>
 
 
 <!--https://spotify-github-profile.vercel.app/api/login--->
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=murad_alm&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=murad_alm&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=murad_alm&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=murad_alm&redirect=true) -->
