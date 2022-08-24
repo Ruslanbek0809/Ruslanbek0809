@@ -6,7 +6,7 @@
 
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=Ruslanbek0809&show_icons=true&count_private=true&theme=synthwave" />
 
-<img align="right" alt="GIF" height="300px" width="300px" src="https://c.tenor.com/dYTrYmR1GNMAAAAS/i-got-you-got-you.gif" />
+<!-- <img align="right" alt="GIF" height="300px" width="300px" src="https://c.tenor.com/dYTrYmR1GNMAAAAS/i-got-you-got-you.gif" /> -->
 <!-- <img align="right" alt="GIF" height="300px" width="300px" src="https://media1.tenor.com/images/2ade00b5663a3435566b1330b537aea6/tenor.gif" /> -->
 
 <h3>Talking about Personal Stuffs:</h3>
