@@ -13,9 +13,9 @@
 <p align="left">
 - 🔭 I’m currently working on something cool :wink:</br>
 <!-- - 🎓 I'm currently studying Media Informatics at Ulm University, Germany</br> -->
-- 👨‍💻 I'm working as a mobile app developer at Yashyl Ada</br>
-- 🎲 My hobbies are: coding, reading, gaming and playing chess!</br>
-- 📚 Languages i speak: English, Russian, Turkish and some Arabic</br>
+- 👨‍💻 I'm working as a mobile app dev at Yashyl Ada</br>
+- 🎲 My hobbies are: coding, reading and gaming</br>
+- 📚 Languages i speak: English, Russian and Turkish</br>
 - ⚡ Fun fact: Heroes don't wear diapers :sunglasses:</br>
 </p>
 
