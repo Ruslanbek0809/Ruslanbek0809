@@ -19,6 +19,16 @@
 - ⚡ Fun fact: Heroes don't wear diapers :sunglasses:</br>
 </p>
 
+<!-- BLOG-POST-LIST:END -->
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<!-- <a href="https://twitter.com/mulay_shounak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mulay_shounak" height="30" width="40" /></a> -->
+<!-- <a href="https://hashnode.com/@shounak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@shounak" height="30" width="40" /></a> -->
+<!-- <a href="https://medium.com/@shounakmulay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@shounakmulay" height="30" width="40" /></a> -->
+<a href="https://linkedin.com/in/ruslan-hasanoff-34208a218" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ruslan-hasanoff-34208a218" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/12266950" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="12266950" height="30" width="40" /></a>
+</p>
 
 <h3>Languages and Tools I Use:</h3>
 <p align="left">
@@ -40,7 +50,5 @@
    
 <!-- </p>
 <h3>Listening to:</h3> --->
-
-
 <!--https://spotify-github-profile.vercel.app/api/login--->
 <!-- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=murad_alm&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=murad_alm&redirect=true) -->
