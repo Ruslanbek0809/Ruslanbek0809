@@ -28,7 +28,7 @@
 <!-- <a href="https://medium.com/@shounakmulay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@shounakmulay" height="30" width="40" /></a> -->
 <a href="https://github.com/Ruslanbek0809" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="12266950" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/15236786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="12266950" height="30" width="40" /></a>
-<a href="[https://linkedin.com/in/ruslan-hasanoff-34208a218](https://www.linkedin.com/in/ruslan-hasanoff-%F0%9F%8D%89-34208a218/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ruslan-hasanoff-34208a218" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ruslan-hasanoff-34208a218" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ruslan-hasanoff-34208a218" height="30" width="40" /></a>
 <a href="https://instagram.com/roosnoff" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ruslan-hasanoff-34208a218" height="30" width="40" /></a>
 </p>
 
