@@ -14,10 +14,10 @@
 <h3>Talking about Personal Stuffs:</h3>
 <p align="left">
 - 🔭 I’m currently working on something cool :wink:</br>
-<!-- - 🎓 I'm currently studying Media Informatics at Ulm University, Germany</br> -->
-- 👨‍💻 I'm working as a mobile app dev at Flipgoo</br>
+- 🎓 I'm currently studying a master's in Germany</br>
+<!-- - 👨‍💻 I'm working as a mobile app dev at Flipgoo</br> -->
 - 🎲 My hobbies are: coding, reading, and gaming</br>
-- 📚 Languages I speak: English, Russian, Turkish, and A1 level German</br>
+- 📚 Languages I speak: English, Russian, Turkish, and A2 level German</br>
 - ⚡ Fun fact: Heroes don't wear diapers :sunglasses:</br>
 </p>
 
