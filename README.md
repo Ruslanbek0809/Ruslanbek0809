@@ -2,7 +2,9 @@
 
 <h2>Hey coder 👋 I'm Ruslan</h2>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Ruslanbek0809&show_icons=true&count_private=true&theme=synthwave" />
+<table>
+<tr>
+<td valign="top" width="60%">
 
 <h3>Talking about Personal Stuffs:</h3>
 <p align="left">
@@ -13,18 +15,16 @@
 - ⚡ Fun fact: Heroes don't wear diapers :sunglasses:<br>
 </p>
 
-<br clear="both" />
-
 <h3 align="left">Connect with me:</h3>
-<div align="left">
+<p align="left">
   <a href="https://github.com/Ruslanbek0809" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" /></a>
   <a href="https://stackoverflow.com/users/15236786" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/ruslan-hasanoff-34208a218" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
   <a href="https://instagram.com/roosnoff" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-</div>
+</p>
 
 <h3 align="left">Languages and Tools I Use:</h3>
-<div align="left">
+<p align="left">
   <a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/dart.svg" alt="dart" width="40" height="40" /></a>
   <a href="https://flutter.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/flutter.svg" alt="flutter" width="40" height="40" /></a>
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/android-icon.svg" alt="android" width="40" height="40" /></a>
@@ -34,4 +34,13 @@
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/bash-icon.svg" alt="bash" width="40" height="40" /></a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" /></a>
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="vscode" width="40" height="40" /></a>
-</div>
+</p>
+
+</td>
+<td valign="top" align="right" width="40%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Ruslanbek0809&show_icons=true&count_private=true&theme=synthwave" alt="GitHub stats" />
+
+</td>
+</tr>
+</table>
