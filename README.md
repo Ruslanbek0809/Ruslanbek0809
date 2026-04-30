@@ -1,23 +1,23 @@
 ![Hello there](https://media1.tenor.com/images/6a4df9527c54d4528fb2b2ab47e7d422/tenor.gif?itemid=13774600)
 
-<h2>Hey coder 👋  I'm Ruslan</h2>
+<h2 align="left">Hey 🙋🏻‍♂️</h2>
 
 <!-- [![https://github.com/Ruslanbek0809](https://img.shields.io/static/v1?label=follow&message=me&color=blue&logo=github&style=for-the-badge)](https://github.com/Ruslanbek0809)
 [![ruslanbek0809@gmail.com](https://img.shields.io/static/v1?label=email&message=me&color=red&logo=gmail&style=for-the-badge&logoColor=white)](mailto:ruslanbek0809@gmail.com)
 [![https://www.linkedin.com/in/ruslan-hasanoff-34208a218/](https://img.shields.io/static/v1?label=connect&message=withme&color=orange&logo=linkedin&style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/ruslan-hasanoff-34208a218/) -->
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=Ruslanbek0809&show_icons=true&count_private=true&theme=synthwave" />
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=Ruslanbek0809&&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="200" alt="stats graph" />
 
 <!-- <img align="right" alt="GIF" height="300px" width="300px" src="https://c.tenor.com/dYTrYmR1GNMAAAAS/i-got-you-got-you.gif" /> -->
 <!-- <img align="right" alt="GIF" height="300px" width="300px" src="https://media1.tenor.com/images/2ade00b5663a3435566b1330b537aea6/tenor.gif" /> -->
 
-<h3>Talking about Personal Stuffs:</h3>
+<h3>Talking about personal stuff:</h3>
 <p align="left">
-- 🔭 I’m currently working on something cool :wink:</br>
-- 🎓 I'm currently studying a master's in Germany</br>
+- 🔭 Currently working on something cool :wink:</br>
+- 🎓 Pursuing a master’s degree in Germany.</br>
 <!-- - 👨‍💻 I'm working as a mobile app dev at Flipgoo</br> -->
-- 🎲 My hobbies are: coding, reading, and gaming</br>
-- 📚 Languages I speak: English, Russian, Turkish, and A2 level German</br>
+- 🎲 Hobbies: coding, reading, and gaming</br>
+- 📚 Languages: English, Russian, Turkish, and A2-level German</br>
 - ⚡ Fun fact: Heroes don't wear diapers :sunglasses:</br>
 </p>
 
@@ -55,8 +55,7 @@
 <!--https://spotify-github-profile.vercel.app/api/login--->
 <!-- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=murad_alm&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=murad_alm&redirect=true) -->
 
-
-###
+</br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ruslanbek0809/Ruslanbek0809/output/pacman-contribution-graph-dark.svg">
