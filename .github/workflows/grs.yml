@@ -1,1 +1,36 @@
+name: Update stats card
 
+on:
+  schedule:
+    - cron: "0 3 * * *" # daily 03:00 UTC
+  workflow_dispatch:
+
+jobs:
+  build:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate stats card
+        # v2.1.0, pinned by commit
+        uses: stats-organization/github-readme-stats-action@2c498845f71017821efaad14293ebc736156ef21
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&include_all_commits=true&count_private=true&theme=radical&locale=en
+          path: profile/stats.svg
+          token: ${{ secrets.GRP_PAT }}
+          # exact version; the default "v2" installs the newest 2.x from npm at run time
+          core_version: "2.2.0"
+          fail_on_error: "true"
+
+      - name: Commit card
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@users.noreply.github.com"
+          git add profile/stats.svg
+          git commit -m "Update stats card" || exit 0
+          git push
