@@ -6,7 +6,8 @@
 [![ruslanbek0809@gmail.com](https://img.shields.io/static/v1?label=email&message=me&color=red&logo=gmail&style=for-the-badge&logoColor=white)](mailto:ruslanbek0809@gmail.com)
 [![https://www.linkedin.com/in/ruslan-hasanoff-34208a218/](https://img.shields.io/static/v1?label=connect&message=withme&color=orange&logo=linkedin&style=for-the-badge&logoColor=white)](https://www.linkedin.com/in/ruslan-hasanoff-34208a218/) -->
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=Ruslanbek0809&&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="200" alt="stats graph" />
+<img align='right' src="./profile/stats.svg" height="200" alt="stats graph" />
+<!-- <img align='right' src="https://github-readme-stats.vercel.app/api?username=Ruslanbek0809&&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="200" alt="stats graph" /> -->
 
 <!-- <img align="right" alt="GIF" height="300px" width="300px" src="https://c.tenor.com/dYTrYmR1GNMAAAAS/i-got-you-got-you.gif" /> -->
 <!-- <img align="right" alt="GIF" height="300px" width="300px" src="https://media1.tenor.com/images/2ade00b5663a3435566b1330b537aea6/tenor.gif" /> -->
